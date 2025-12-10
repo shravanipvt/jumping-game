@@ -1,0 +1,6 @@
+body{font-family:Arial;background:#e8edf7;display:flex;justify-content:center;padding:40px}
+.wrap{text-align:center;width:960px}
+canvas{background:#fff;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1);margin:20px auto;display:block}
+.instructions{color:#333}
+.hud{margin:10px;font-size:20px}
+button{padding:6px 12px;border:none;background:#ddd;border-radius:6px;cursor:pointer}
